@@ -1,0 +1,13 @@
+Contact
+=======
+
+Feel free to contact for any subjects.
+
+supportraam@merdiven.co
+
+.. image:: img/raam-logo.png
+..   :heigh: 80px
+..   :width: 600px
+   :scale: 100%
+   :alt: raam-logo
+   :align: center
