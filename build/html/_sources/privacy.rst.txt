@@ -36,5 +36,5 @@ RAAM gives users the following options for removing their information from our d
 RAAM takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction. RAAM uses Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected.
 
 8. CHANGES TO PRIVACY POLICY
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 We reserve the right to make changes to this privacy policy without advance notice.
